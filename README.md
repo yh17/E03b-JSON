@@ -1,5 +1,5 @@
 # E03b-JSON
-Thi is an exercise to edit an existing JSON file (in the game-description format we are using for MSCH-C220). Fork and Clone this repository and then make the following edits to zork.json:
+This exercise will give you the opportunity to edit an existing JSON file (in the game-description format we are using for MSCH-C220). Fork and Clone this repository and then make the following edits to zork.json:
 
  - Change the exit in FORE3 from UP to DOWN
  - Add a desc in MGRAT: "If you stay here much longer, you will be eaten by a Grue"
